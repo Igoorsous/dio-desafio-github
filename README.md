@@ -2,4 +2,4 @@
 Desafio de projeto sobre git/github
 
 ## Links Úteis
-[sintaxe basica markdow](https://github.com/Igoorsous/dio-desafio-github.git)
+[sintaxe_basica_markdow](https://github.com/Igoorsous/dio-desafio-github.git)
